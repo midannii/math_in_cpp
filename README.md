@@ -1,4 +1,4 @@
-## math_in_cpp
+### overall
 
 경희대학교 `수치해석프로그래밍` 를 들으며 진행합니다.
 
@@ -8,5 +8,7 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 
 
 <br>
+
+## steps 
 
 `Week 1` : signal & wave
