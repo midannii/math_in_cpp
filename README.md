@@ -11,4 +11,6 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 
 ## steps 
 
-`Week 1` : signal & wave
+`Week 1` : 2Dsignal & wav file
+
+`Week 2` : 3Dsignal & bmp file
