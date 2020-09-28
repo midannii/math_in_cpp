@@ -14,3 +14,7 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 `Week 1` : 2Dsignal & wav file
 
 `Week 2` : 3Dsignal & bmp file
+
+`Week 3` : gradient descend, local max/min, projection point
+
+`Week 4` : matrix, orthonormal, hadamard matrix 
