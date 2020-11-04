@@ -19,9 +19,9 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 
 `Week 4` : matrix, orthonormal, hadamard matrix 
 
-`Week 5`: matrix, LSM
+`Week 5`: matrix, LSM ❌
 
-`Week 6`: differential equations
+`Week 6`: differential equations ❌
 
 <br>
 
