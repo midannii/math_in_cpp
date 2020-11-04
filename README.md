@@ -18,3 +18,23 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 `Week 3` : gradient descend, local max/min, projection point
 
 `Week 4` : matrix, orthonormal, hadamard matrix 
+
+`Week 5`: matrix, LSM
+
+`Week 6`: differential equations
+
+<br>
+
+`Week 9`: matrix, affine transform, eigen-value & vectors
+
+`Week 10`: matrix, SVD
+
+`Week 11`: probability
+
+`Week 12`: 
+
+`Week 13`: 
+
+`Week 14`: 
+
+`Week 15`: 
