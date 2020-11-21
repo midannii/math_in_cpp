@@ -15,9 +15,9 @@
   
   - 1열에서의 edible은 0, poisonous는 1로 labeling
   
-3. 2에서 만들어진 `mushroom.txt`를 읽고 train과 test를 위한 input data(train_x, test_x)와 output data(train_t, test_t)로 구분한다. :  `mushroom_main.cpp 
+3. 2에서 만들어진 `mushroom.txt`를 읽고 train과 test를 위한 input data(train_x, test_x)와 output data(train_t, test_t)로 구분한다. :  `mushroom_main.cpp`
 
-4. logistic classification을 진행한다. :  `mushroom_main.cpp 
+4. logistic classification을 진행한다. :  `mushroom_main.cpp`
 
   - epoch : 3000
   
