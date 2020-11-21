@@ -33,7 +33,7 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 
 `Week 12`: covariance/correlation, multivariate Gaussian
 
-`Week 13`: 
+`Week 13`: Machine learning 1 (Java --> C++)
 
 `Week 14`: 
 
