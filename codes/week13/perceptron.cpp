@@ -1,12 +1,18 @@
+// Author : DougnYoung Suh
+// Date on July 6, 2020
+
+// Revised by midan sim
+// Date: Nov 20, 2020
+
 #include "perceptron.h"
 Perceptrons::Perceptrons(int n) {
 
 	nIn = n;
 	w = new double[nIn];
-	// Java¿¡¼­´Â ÃÊ±â°ªÀÌ 0À¸·Î µÇ¾îÀÖÀ¸³ª C++¿¡¼­´Â Á¤ÇØÁÖ¾î¾ßÇÔ
-	//w[0] = 0.1; // suh   ÀÌ°É ³ÖÀ¸´Ï 45%¿¡¼­ 100%·Î ¹Ù²ï´Ù. 
+	// Javaì—ì„œëŠ” ì´ˆê¸°ê°’ì´ 0ìœ¼ë¡œ ë˜ì–´ìˆìœ¼ë‚˜ C++ì—ì„œëŠ” ì •í•´ì£¼ì–´ì•¼í•¨
+	//w[0] = 0.1; // suh   ì´ê±¸ ë„£ìœ¼ë‹ˆ 45%ì—ì„œ 100%ë¡œ ë°”ë€ë‹¤. 
 	//w[1] = 0.1; // suh
-	for(int i = 0; i<nIn;i++) w[i] = 0.1; // suh   ÀÌ°É ³ÖÀ¸´Ï 45%¿¡¼­ 100%·Î ¹Ù²ï´Ù. 
+	for(int i = 0; i<nIn;i++) w[i] = 0.1; // suh   ì´ê±¸ ë„£ìœ¼ë‹ˆ 45%ì—ì„œ 100%ë¡œ ë°”ë€ë‹¤. 
 	//w[1] = 0.1; // suh
 }
 
