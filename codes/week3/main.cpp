@@ -1,3 +1,9 @@
+// Author : DougnYoung Suh
+// Date on July 6, 2020
+
+// Revised by midan sim
+// Date: Sep 27, 2020
+
 #include <iostream> // for cout
 #include <iomanip> // for setw()
 #include <cmath>
