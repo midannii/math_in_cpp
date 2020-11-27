@@ -1,5 +1,8 @@
 // Author : DougnYoung Suh
 // Date on July 6, 2020
+
+// Revised by midan sim
+// Date: Sep 9, 2020
 #include <iostream>
 #include <fstream>
 #include <cmath> // sin( )
