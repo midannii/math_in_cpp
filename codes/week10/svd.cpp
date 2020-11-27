@@ -1,3 +1,9 @@
+// Author : DougnYoung Suh
+// Date on July 6, 2020
+
+// Revised by midan sim
+// Date: Oct 31, 2020
+
 #include <iostream>
 #include <eigen/Dense>
 #include <eigen/LU>
