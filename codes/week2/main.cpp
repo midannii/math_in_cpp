@@ -1,3 +1,8 @@
+// Author : DougnYoung Suh
+// Date on July 6, 2020
+
+// Revised by midan sim
+// Date: Sep 20, 2020
 
 #include <iostream>
 #include "bmpOld.h" // SaveBmp()
