@@ -38,5 +38,3 @@ remind를 위해 간단한 메모로 annotation 할 예정!
 `Week 13`: Machine learning 1 (Java --> C++)
 
 `Week 14`: Machine learning 2 (C++ with eigen library)
-
-`Week 15`: number theory
